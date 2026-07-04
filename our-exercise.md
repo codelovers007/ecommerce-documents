@@ -1,9 +1,8 @@
 ## Our Next Exercise
 
 1. Identify all **Actors** (Who uses the system?)
-2. Draw the **User Journey** for each actor.
-3. List all **User Actions**.
-4. Group the actions into **Features**.
-5. Identify the **Entities**.
-6. Find the **Relationships** between entities.
-7. Design the database tables.
+2. Draw the **User Journey** with **User Actions** for each actor.
+3. Group the actions into **Features**.
+4. Identify the **Entities**.
+5. Find the **Relationships** between entities.
+6. Design the database tables.
